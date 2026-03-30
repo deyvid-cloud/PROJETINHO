@@ -1,6 +1,5 @@
 # 🚀 Desafio: Meu Primeiro Repositório no GitHub
 
-Este repositório foi criado como parte do desafio valendo **3 pontos na média**. O objetivo é demonstrar o domínio inicial das ferramentas de versionamento e colaboração.
 
 ### 📂 Estrutura do Projeto
 - **Pasta:** `Meu_Primeiro_Projeto`
